@@ -4,8 +4,14 @@ curwd=$(pwd)
 
 # Check if impromper conversion
 if $2 == "PEM"
+then
+  break
 elif $2 == "KEY"
+then
+  break
 elif $2 == "RSA"
+then
+  break
 else
   echo "Unrecognised conversion format: $2"
   return 1
