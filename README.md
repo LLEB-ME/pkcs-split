@@ -1,6 +1,6 @@
 # pkcs-split
 
-**You will need OpenSSL installed.** This tool is intended for use with Keychain Access (55296.40.3).
+**You will need OpenSSL installed.** This tool is intended for use with Keychain Access (55296.40.3) or similar.
 
 Clone this repository (`git clone https://github.com/LLEB-ME/pkcs-split.git`) and mark the shell script as executable (`chmod +x pkcs-split.sh`).
 
